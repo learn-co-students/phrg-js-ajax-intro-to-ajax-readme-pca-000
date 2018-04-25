@@ -321,3 +321,4 @@ parse the `responseText` into JSON and display it on the page.
 - [MDN: Using data attributes](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-xhr'>XHR</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG JavaScript XHR</p>

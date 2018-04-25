@@ -5,3 +5,5 @@ tags:
 languages:
   - JavaScript
 resources: 0
+
+parent_template: git@github.com:learn-co-curriculum/js-ajax-intro-to-ajax-readme.git
