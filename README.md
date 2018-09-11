@@ -313,6 +313,9 @@ We learned what the `XMLHttpRequest` object does, how to use it to request data
 from a remote resource, and how to handle the response. We also learned how to
 parse the `responseText` into JSON and display it on the page.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-ajax-intro-to-ajax-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-ajax-intro-to-ajax-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 - [MDN: XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
